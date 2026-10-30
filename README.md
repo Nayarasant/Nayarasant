@@ -1,5 +1,5 @@
 
-<p align="center">Eu amo desenvolver soluções web inovadoras. <br><br> Como desenvolvedor web iniciante, me dedico à criação de sites, landing pages e blogs, utilizando <strong>HTML, CSS e JavaScript</strong>. Sou <strong>entusiasta de boas práticas de design</strong> e busco entregar interfaces intuitivas e funcionais, combinando criatividade e eficiência em cada projeto.</p>&nbsp;
+<p align="center">Eu amo desenvolver soluções web inovadoras. <br><br> Me dedico à criação de sites, landing pages e blogs, utilizando <strong>HTML, CSS e JavaScript</strong>. Sou <strong>entusiasta de boas práticas de design</strong> e busco entregar interfaces intuitivas e funcionais, combinando criatividade e eficiência em cada projeto.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Nayarasant&theme=dracula&mode=weekly" />
